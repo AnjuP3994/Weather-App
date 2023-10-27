@@ -1,13 +1,19 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500&family=Abril+Fatface&family=Anton&family=Archivo+Narrow&family=Bacasime+Antique&family=Bebas+Neue&family=Belanosima&family=Courgette&family=Gabarito&family=Inter&family=Josefin+Sans&family=Kalam&family=Lato&family=Lilita+One&family=Lobster&family=Mooli&family=Nunito&family=Oswald&family=Pacifico&family=Permanent+Marker&family=Poppins&family=Roboto&family=Roboto+Condensed&family=Rubik&family=Signika+Negative&family=Teko&family=Young+Serif&display=swap');
+
+body{
+  font-family: 'Young Serif', serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
+/* 
+https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?cs=srgb&dl=pexels-pixabay-209831.jpg&fm=jpg
+https://blog.hdwallsource.com/wp-content/uploads/2016/02/solid-color-wallpaper-21965-22518-hd-wallpapers.jpg
+
+https://i.pinimg.com/originals/d8/34/5c/d8345cf4cdd7e013e964f91d0c3b2228.gif - night
+https://i.pinimg.com/originals/df/0a/3e/df0a3e2ec30abb1c92d145ef165b714f.gif -sunrise with windmill
+https://i.pinimg.com/originals/91/57/a5/9157a5c3483ac19d00092355caa6c17a.gif - wind
+https://i.pinimg.com/originals/04/a0/0f/04a00f50fdb994a94aff7914fec7eba5.gif -snow
+https://i.pinimg.com/originals/f8/2a/ea/f82aea96f870529b265c510eb9cb3397.gif - rain
+https://i.pinimg.com/originals/f6/32/b0/f632b07f8ab9b2a0ccf77998c766064b.gif - summer
+https://i.pinimg.com/originals/34/bf/0c/34bf0c4e12a680245c29f1cedc200aa6.gif - thunder
+*/
